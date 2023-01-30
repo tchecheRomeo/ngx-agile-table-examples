@@ -1,4 +1,4 @@
-# NgxAgileTableSamplesV8
+# NgxAgileTableSamplesV0.8.x
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.29.
 
